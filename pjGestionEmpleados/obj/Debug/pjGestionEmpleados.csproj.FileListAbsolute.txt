@@ -1,0 +1,10 @@
+D:\C# Proyectos\ProyectosSQL\SQL_Geestion_empleados\pjGestionEmpleados\obj\Debug\pjGestionEmpleados.csproj.AssemblyReference.cache
+D:\C# Proyectos\ProyectosSQL\SQL_Geestion_empleados\pjGestionEmpleados\obj\Debug\pjGestionEmpleados.Properties.Resources.resources
+D:\C# Proyectos\ProyectosSQL\SQL_Geestion_empleados\pjGestionEmpleados\obj\Debug\pjGestionEmpleados.csproj.GenerateResource.cache
+D:\C# Proyectos\ProyectosSQL\SQL_Geestion_empleados\pjGestionEmpleados\obj\Debug\pjGestionEmpleados.csproj.CoreCompileInputs.cache
+D:\C# Proyectos\ProyectosSQL\SQL_Geestion_empleados\pjGestionEmpleados\bin\Debug\pjGestionEmpleados.exe.config
+D:\C# Proyectos\ProyectosSQL\SQL_Geestion_empleados\pjGestionEmpleados\bin\Debug\pjGestionEmpleados.exe
+D:\C# Proyectos\ProyectosSQL\SQL_Geestion_empleados\pjGestionEmpleados\bin\Debug\pjGestionEmpleados.pdb
+D:\C# Proyectos\ProyectosSQL\SQL_Geestion_empleados\pjGestionEmpleados\obj\Debug\pjGestionEmpleados.exe
+D:\C# Proyectos\ProyectosSQL\SQL_Geestion_empleados\pjGestionEmpleados\obj\Debug\pjGestionEmpleados.pdb
+D:\C# Proyectos\ProyectosSQL\SQL_Geestion_empleados\pjGestionEmpleados\obj\Debug\pjGestionEmpleados.Presentacion.frmEmpleado.resources

@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# Proyectos\\ProyectosSQL\\SQL_Geestion_empleados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7859A5C-5C5D-4AC7-AFB8-8B0676BC5F98}|pjGestionEmpleados\\pjGestionEmpleados.csproj|d:\\c# proyectos\\proyectossql\\sql_geestion_empleados\\pjgestionempleados\\presentacion\\frmempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7859A5C-5C5D-4AC7-AFB8-8B0676BC5F98}|pjGestionEmpleados\\pjGestionEmpleados.csproj|solutionrelative:pjgestionempleados\\presentacion\\frmempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7859A5C-5C5D-4AC7-AFB8-8B0676BC5F98}|pjGestionEmpleados\\pjGestionEmpleados.csproj|D:\\C# Proyectos\\ProyectosSQL\\SQL_Geestion_empleados\\pjgestionempleados\\presentacion\\frmempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7859A5C-5C5D-4AC7-AFB8-8B0676BC5F98}|pjGestionEmpleados\\pjGestionEmpleados.csproj|solutionrelative:pjgestionempleados\\presentacion\\frmempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7859A5C-5C5D-4AC7-AFB8-8B0676BC5F98}|pjGestionEmpleados\\pjGestionEmpleados.csproj|D:\\C# Proyectos\\ProyectosSQL\\SQL_Geestion_empleados\\pjgestionempleados\\presentacion\\frmempleado.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7859A5C-5C5D-4AC7-AFB8-8B0676BC5F98}|pjGestionEmpleados\\pjGestionEmpleados.csproj|solutionrelative:pjgestionempleados\\presentacion\\frmempleado.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7859A5C-5C5D-4AC7-AFB8-8B0676BC5F98}|pjGestionEmpleados\\pjGestionEmpleados.csproj|D:\\C# Proyectos\\ProyectosSQL\\SQL_Geestion_empleados\\pjgestionempleados\\datos\\d_empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7859A5C-5C5D-4AC7-AFB8-8B0676BC5F98}|pjGestionEmpleados\\pjGestionEmpleados.csproj|solutionrelative:pjgestionempleados\\datos\\d_empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7859A5C-5C5D-4AC7-AFB8-8B0676BC5F98}|pjGestionEmpleados\\pjGestionEmpleados.csproj|D:\\C# Proyectos\\ProyectosSQL\\SQL_Geestion_empleados\\pjgestionempleados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7859A5C-5C5D-4AC7-AFB8-8B0676BC5F98}|pjGestionEmpleados\\pjGestionEmpleados.csproj|solutionrelative:pjgestionempleados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7859A5C-5C5D-4AC7-AFB8-8B0676BC5F98}|pjGestionEmpleados\\pjGestionEmpleados.csproj|D:\\C# Proyectos\\ProyectosSQL\\SQL_Geestion_empleados\\pjgestionempleados\\entidades\\e_empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7859A5C-5C5D-4AC7-AFB8-8B0676BC5F98}|pjGestionEmpleados\\pjGestionEmpleados.csproj|solutionrelative:pjgestionempleados\\entidades\\e_empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7859A5C-5C5D-4AC7-AFB8-8B0676BC5F98}|pjGestionEmpleados\\pjGestionEmpleados.csproj|D:\\C# Proyectos\\ProyectosSQL\\SQL_Geestion_empleados\\pjgestionempleados\\datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7859A5C-5C5D-4AC7-AFB8-8B0676BC5F98}|pjGestionEmpleados\\pjGestionEmpleados.csproj|solutionrelative:pjgestionempleados\\datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7859A5C-5C5D-4AC7-AFB8-8B0676BC5F98}|pjGestionEmpleados\\pjGestionEmpleados.csproj|D:\\C# Proyectos\\ProyectosSQL\\SQL_Geestion_empleados\\pjgestionempleados\\datos\\d_cargos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7859A5C-5C5D-4AC7-AFB8-8B0676BC5F98}|pjGestionEmpleados\\pjGestionEmpleados.csproj|solutionrelative:pjgestionempleados\\datos\\d_cargos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7859A5C-5C5D-4AC7-AFB8-8B0676BC5F98}|pjGestionEmpleados\\pjGestionEmpleados.csproj|D:\\C# Proyectos\\ProyectosSQL\\SQL_Geestion_empleados\\pjgestionempleados\\datos\\d_departamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7859A5C-5C5D-4AC7-AFB8-8B0676BC5F98}|pjGestionEmpleados\\pjGestionEmpleados.csproj|solutionrelative:pjgestionempleados\\datos\\d_departamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmEmpleado.cs",
+              "DocumentMoniker": "D:\\C# Proyectos\\ProyectosSQL\\SQL_Geestion_empleados\\pjGestionEmpleados\\Presentacion\\frmEmpleado.cs",
+              "RelativeDocumentMoniker": "pjGestionEmpleados\\Presentacion\\frmEmpleado.cs",
+              "ToolTip": "D:\\C# Proyectos\\ProyectosSQL\\SQL_Geestion_empleados\\pjGestionEmpleados\\Presentacion\\frmEmpleado.cs",
+              "RelativeToolTip": "pjGestionEmpleados\\Presentacion\\frmEmpleado.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAEwPwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T01:43:39.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "D_Empleados.cs",
+              "DocumentMoniker": "D:\\C# Proyectos\\ProyectosSQL\\SQL_Geestion_empleados\\pjGestionEmpleados\\Datos\\D_Empleados.cs",
+              "RelativeDocumentMoniker": "pjGestionEmpleados\\Datos\\D_Empleados.cs",
+              "ToolTip": "D:\\C# Proyectos\\ProyectosSQL\\SQL_Geestion_empleados\\pjGestionEmpleados\\Datos\\D_Empleados.cs",
+              "RelativeToolTip": "pjGestionEmpleados\\Datos\\D_Empleados.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T01:39:05.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmEmpleado.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\C# Proyectos\\ProyectosSQL\\SQL_Geestion_empleados\\pjGestionEmpleados\\Presentacion\\frmEmpleado.cs",
+              "RelativeDocumentMoniker": "pjGestionEmpleados\\Presentacion\\frmEmpleado.cs",
+              "ToolTip": "D:\\C# Proyectos\\ProyectosSQL\\SQL_Geestion_empleados\\pjGestionEmpleados\\Presentacion\\frmEmpleado.cs [Dise\u00F1o]",
+              "RelativeToolTip": "pjGestionEmpleados\\Presentacion\\frmEmpleado.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T01:38:24.509Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmEmpleado.Designer.cs",
+              "DocumentMoniker": "D:\\C# Proyectos\\ProyectosSQL\\SQL_Geestion_empleados\\pjGestionEmpleados\\Presentacion\\frmEmpleado.Designer.cs",
+              "RelativeDocumentMoniker": "pjGestionEmpleados\\Presentacion\\frmEmpleado.Designer.cs",
+              "ToolTip": "D:\\C# Proyectos\\ProyectosSQL\\SQL_Geestion_empleados\\pjGestionEmpleados\\Presentacion\\frmEmpleado.Designer.cs",
+              "RelativeToolTip": "pjGestionEmpleados\\Presentacion\\frmEmpleado.Designer.cs",
+              "ViewState": "AQIAAIUBAAAAAAAAAAAhwJEBAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T01:39:46.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "D_Cargos.cs",
+              "DocumentMoniker": "D:\\C# Proyectos\\ProyectosSQL\\SQL_Geestion_empleados\\pjGestionEmpleados\\Datos\\D_Cargos.cs",
+              "RelativeDocumentMoniker": "pjGestionEmpleados\\Datos\\D_Cargos.cs",
+              "ToolTip": "D:\\C# Proyectos\\ProyectosSQL\\SQL_Geestion_empleados\\pjGestionEmpleados\\Datos\\D_Cargos.cs",
+              "RelativeToolTip": "pjGestionEmpleados\\Datos\\D_Cargos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T01:39:06.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "D:\\C# Proyectos\\ProyectosSQL\\SQL_Geestion_empleados\\pjGestionEmpleados\\Datos\\Conexion.cs",
+              "RelativeDocumentMoniker": "pjGestionEmpleados\\Datos\\Conexion.cs",
+              "ToolTip": "D:\\C# Proyectos\\ProyectosSQL\\SQL_Geestion_empleados\\pjGestionEmpleados\\Datos\\Conexion.cs",
+              "RelativeToolTip": "pjGestionEmpleados\\Datos\\Conexion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T01:39:07.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "E_Empleados.cs",
+              "DocumentMoniker": "D:\\C# Proyectos\\ProyectosSQL\\SQL_Geestion_empleados\\pjGestionEmpleados\\Entidades\\E_Empleados.cs",
+              "RelativeDocumentMoniker": "pjGestionEmpleados\\Entidades\\E_Empleados.cs",
+              "ToolTip": "D:\\C# Proyectos\\ProyectosSQL\\SQL_Geestion_empleados\\pjGestionEmpleados\\Entidades\\E_Empleados.cs",
+              "RelativeToolTip": "pjGestionEmpleados\\Entidades\\E_Empleados.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T01:39:08.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C# Proyectos\\ProyectosSQL\\SQL_Geestion_empleados\\pjGestionEmpleados\\Program.cs",
+              "RelativeDocumentMoniker": "pjGestionEmpleados\\Program.cs",
+              "ToolTip": "D:\\C# Proyectos\\ProyectosSQL\\SQL_Geestion_empleados\\pjGestionEmpleados\\Program.cs",
+              "RelativeToolTip": "pjGestionEmpleados\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T01:38:35.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "D_Departamentos.cs",
+              "DocumentMoniker": "D:\\C# Proyectos\\ProyectosSQL\\SQL_Geestion_empleados\\pjGestionEmpleados\\Datos\\D_Departamentos.cs",
+              "RelativeDocumentMoniker": "pjGestionEmpleados\\Datos\\D_Departamentos.cs",
+              "ToolTip": "D:\\C# Proyectos\\ProyectosSQL\\SQL_Geestion_empleados\\pjGestionEmpleados\\Datos\\D_Departamentos.cs",
+              "RelativeToolTip": "pjGestionEmpleados\\Datos\\D_Departamentos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T01:39:05.564Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
